@@ -13,12 +13,12 @@ $ go run example/puzzle_captcha/main.go
 
 ## 前端
 
-[前端代码仓库](https://gitee.com/wida/gocatcha-ui)
+[前端代码仓库](https://github.com/widaT/gocatcha-ui)
 
 运行前端
 
 ```bash
-$ git clone git@gitee.com:wida/gocatcha-ui.git
+$ git clone git@github.com:widaT/gocatcha-ui.git
 $ cd gocatcha-ui
 $ npm i
 $ npm run dev
